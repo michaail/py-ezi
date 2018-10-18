@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "/home/klos/.local/share/virtualenvs/py-ezi-lhP9sPhS/bin/python",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
+}

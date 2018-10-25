@@ -19,8 +19,9 @@ def idf(docList, keywords):
         idfDict[word] += 1
   
   for word, val in idfDict.items():
-    idfDict[word] = math.log10(N / float(val))
-
+    if val:
+      idfDict[word] = math.log10(N / float(val))
+      
   return idfDict
 
 

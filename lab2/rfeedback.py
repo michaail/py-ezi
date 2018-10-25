@@ -18,8 +18,8 @@ def rocchio(query, relevants, notRelevants, dictionary):
     for term in doc:
       nRel[term] += doc[term]
 
-  print(rel)
-  print(nRel)
+  # print(rel)
+  # print(nRel)
 
   newQuery = {}
 
@@ -37,7 +37,7 @@ def rocchio(query, relevants, notRelevants, dictionary):
     else:
       newQuery[term] = tmp
 
-  print(newQuery)
+  # print(newQuery)
   return newQuery
   
 # test only 

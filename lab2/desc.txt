@@ -1,0 +1,6 @@
+WordNet:
+  Każdy dokument: 2 części:
+    - pierwsza linia oznaczenie klasy do której należy dokument (na razie zignorować)
+    - właściwa treść dokumentu którą należy analizować
+
+  Pokazać możliwe rozszerzenia do wyboru i umożliwić zadanie takiego pytania4

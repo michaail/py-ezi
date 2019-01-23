@@ -1,7 +1,7 @@
-##Kmeans clustering
+## Kmeans clustering
 
 ```bash
-`python3 own.py`
+python3 own.py
 Clustering completed in 5 iterations
 Cluster #1:
 	['perl', 'Perl.com: The Source for Perl -- perl development, perl conferences', 'Perl programming forum for Perl beginners and experts. ... Sprog is a graphical', 'programming environment written in Perl, programmable by connecting ...']
